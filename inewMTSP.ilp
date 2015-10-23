@@ -1,0 +1,12 @@
+Minimize
+ 
+Subject To
+ R1: e1_0 + e2_0 + e3_0 + e4_0 = 10
+Bounds
+ -infinity <= e1_0 <= 1
+ -infinity <= e2_0 <= 1
+ -infinity <= e3_0 <= 1
+ -infinity <= e4_0 <= 1
+Generals
+ e1_0 e2_0 e3_0 e4_0
+End
